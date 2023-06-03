@@ -1,0 +1,15 @@
+D:\Study\GB\ДЗ\3 Programms\HW_prog7\Task_52\bin\Debug\net6.0\Task_52.exe
+D:\Study\GB\ДЗ\3 Programms\HW_prog7\Task_52\bin\Debug\net6.0\Task_52.deps.json
+D:\Study\GB\ДЗ\3 Programms\HW_prog7\Task_52\bin\Debug\net6.0\Task_52.runtimeconfig.json
+D:\Study\GB\ДЗ\3 Programms\HW_prog7\Task_52\bin\Debug\net6.0\Task_52.dll
+D:\Study\GB\ДЗ\3 Programms\HW_prog7\Task_52\bin\Debug\net6.0\Task_52.pdb
+D:\Study\GB\ДЗ\3 Programms\HW_prog7\Task_52\obj\Debug\net6.0\Task_52.csproj.AssemblyReference.cache
+D:\Study\GB\ДЗ\3 Programms\HW_prog7\Task_52\obj\Debug\net6.0\Task_52.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\GB\ДЗ\3 Programms\HW_prog7\Task_52\obj\Debug\net6.0\Task_52.AssemblyInfoInputs.cache
+D:\Study\GB\ДЗ\3 Programms\HW_prog7\Task_52\obj\Debug\net6.0\Task_52.AssemblyInfo.cs
+D:\Study\GB\ДЗ\3 Programms\HW_prog7\Task_52\obj\Debug\net6.0\Task_52.csproj.CoreCompileInputs.cache
+D:\Study\GB\ДЗ\3 Programms\HW_prog7\Task_52\obj\Debug\net6.0\Task_52.dll
+D:\Study\GB\ДЗ\3 Programms\HW_prog7\Task_52\obj\Debug\net6.0\refint\Task_52.dll
+D:\Study\GB\ДЗ\3 Programms\HW_prog7\Task_52\obj\Debug\net6.0\Task_52.pdb
+D:\Study\GB\ДЗ\3 Programms\HW_prog7\Task_52\obj\Debug\net6.0\Task_52.genruntimeconfig.cache
+D:\Study\GB\ДЗ\3 Programms\HW_prog7\Task_52\obj\Debug\net6.0\ref\Task_52.dll
